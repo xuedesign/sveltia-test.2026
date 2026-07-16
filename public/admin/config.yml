@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
 
 backend:
-  name: sveltia CMS
+  name: github
   repo: xuedesign/sveltia-test.2026
   branch: master
 
